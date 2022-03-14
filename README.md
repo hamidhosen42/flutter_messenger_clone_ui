@@ -1,9 +1,6 @@
 # messenger_clone_in_flutter
 
 A new Flutter project.
-![photo_2022-03-14_14-49-32](https://user-images.githubusercontent.com/68488154/158137059-fa975f94-15a5-4b30-a631-690843293431.jpg)
-
-![photo_2022-03-14_14-49-34](https://user-images.githubusercontent.com/68488154/158137074-6f43725b-8b9f-4609-90d6-65d9a67d983a.jpg)
 
 <div>
       <img style="width: 250px;" src="https://user-images.githubusercontent.com/68488154/158137059-fa975f94-15a5-4b30-a631-690843293431.jpg" alt="">
